@@ -1,6 +1,5 @@
 {
   "name": "astro-search-params",
-  "private": true,
   "type": "module",
   "description": "Search param hooks for Astro",
   "main": "dist/index.js",
