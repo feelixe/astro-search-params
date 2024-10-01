@@ -1,5 +1,6 @@
 {
   "name": "@astro-search-params/react",
+  "private": false,
   "type": "module",
   "author": "Felix Eklöf",
   "version": "0.1.0",
