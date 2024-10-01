@@ -9,6 +9,9 @@
   "scripts": {
     "build": "tsc"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [],
   "license": "MIT",
   "dependencies": {
