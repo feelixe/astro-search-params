@@ -2,8 +2,8 @@
   "name": "@astro-search-params/react",
   "type": "module",
   "author": "Felix Eklöf",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "Search param hooks for Astro",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
